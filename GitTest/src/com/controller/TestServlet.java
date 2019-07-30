@@ -15,6 +15,7 @@ public class TestServlet extends HttpServlet {
 		
 		System.out.println("TestServlet.doGet");
 		System.out.println("Hello1");
+		System.out.println("Hello2");
 		
 	}
 
